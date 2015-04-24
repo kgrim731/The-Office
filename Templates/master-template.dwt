@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Master Template</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="The Seasons" type="boolean" value="true" -->
+<!-- TemplateParam name="The Characters" type="boolean" value="true" -->
+<!-- TemplateParam name="The Reviews" type="boolean" value="true" -->
+<!-- TemplateParam name="Heading" type="boolean" value="true" -->
+</head>
+
+<body>
+<table width="1000">
+  <tr>
+    <td width="130">Home</td>
+    <td width="265">The Seasons</td>
+    <td width="316">The Characters</td>
+    <td width="269">The Reviews</td>
+  </tr>
+  <!-- TemplateBeginIf cond="_document['Heading']" --><!-- TemplateEndIf --></table>
+<table width="1000"><!-- TemplateBeginIf cond="_document['Heading']" --><!-- TemplateEndIf -->
+</table>
+<table width="1000">
+  <tr>
+    <td><h1>The Office</h1></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="Content" --><!-- TemplateEndEditable --><!-- TemplateBeginIf cond="_document['The Seasons']" -->
+<ul>
+  <li><a href="../the-seasons/1.html">Season 1</a></li>
+  <li><a href="../the-seasons/2.html">Season 2</a></li>
+  <li><a href="../the-seasons/3.html">Season 3</a></li>
+  <li><a href="../the-seasons/4.html">Season 4</a></li>
+  <li><a href="../the-seasons/5.html">Season 5</a></li>
+  <li><a href="../the-seasons/6.html">Season 6</a></li>
+  <li><a href="../the-seasons/7.html">Season 7 </a></li>
+  <li><a href="../the-seasons/8.html">Season 8</a></li>
+  <li><a href="../the-seasons/9.html">Season 9</a></li>
+</ul>
+<p>&nbsp;</p>
+<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Characters']" -->
+<ul>
+  <li><a href="../the-characters/creed-bratton.html">Creed Bratton</a></li>
+  <li><a href="../the-characters/dwight-schrute.html">Dwight Schrute</a></li>
+  <li><a href="../the-characters/erin-hannon.html">Erin Hannon</a></li>
+  <li><a href="../the-characters/jan-levinson.html">Jan Levinson</a></li>
+  <li><a href="../the-characters/jim-halpert.html">Jim Halpert</a></li>
+  <li><a href="../the-characters/kevin-malone.html">Kevin Malone</a></li>
+  <li><a href="../the-characters/micheal-scott.html">Micheal Scott</a></li>
+  <li><a href="../the-characters/pam-beasly-halpert.html">Pam-Beasly-Halpert</a></li>
+  <li><a href="../the-characters/stanley-hudson.html">Stanley Hudson</a></li>
+  </ul>
+<!-- TemplateBeginIf cond="_document['The Reviews']" -->
+<ul>
+  <li><a href="../the-reviews/av-club.html">A.V. Club</a></li>
+  <li><a href="../the-reviews/imbd.html">IMBd</a></li>
+  <li><a href="../the-reviews/rotten-tomato.html">Rotten Tomato</a></li>
+  <li><a href="../the-reviews/tv-com.html">TV.com</a></li>
+</ul>
+<!-- TemplateEndIf --><!-- TemplateEndIf -->
+</body>
