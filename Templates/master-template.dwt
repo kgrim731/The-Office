@@ -11,6 +11,7 @@
 <!-- TemplateParam name="The Characters" type="boolean" value="true" -->
 <!-- TemplateParam name="The Reviews" type="boolean" value="true" -->
 <!-- TemplateParam name="Heading" type="boolean" value="true" -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
