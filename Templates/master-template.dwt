@@ -14,7 +14,7 @@
 <link href="../style.css" rel="stylesheet" type="text/css" />
 </head>
 
-<body>
+<body class="contentarea">
 <table width="1000">
   <tr>
     <td width="130">Home</td>
@@ -23,6 +23,7 @@
     <td width="269">The Reviews</td>
   </tr>
   <!-- TemplateBeginIf cond="_document['Heading']" --><!-- TemplateEndIf --></table>
+<!-- TemplateBeginEditable name="Banner" --><!-- TemplateEndEditable -->
 <table width="1000"><!-- TemplateBeginIf cond="_document['Heading']" --><!-- TemplateEndIf -->
 </table>
 <table width="1000">
