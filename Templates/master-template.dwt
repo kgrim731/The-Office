@@ -17,10 +17,10 @@
 <body class="contentarea">
 <table width="1000">
   <tr>
-    <td width="130">Home</td>
-    <td width="265">The Seasons</td>
-    <td width="316">The Characters</td>
-    <td width="269">The Reviews</td>
+    <td width="130"><a href="master-template.dwt">Home</a></td>
+    <td width="265"><a href="../the-seasons/index.html">The Seasons</a></td>
+    <td width="316"><a href="../the-characters/index.html">The Characters</a></td>
+    <td width="269"><a href="../the-reviews/index.html">The Reviews</a></td>
   </tr>
   <!-- TemplateBeginIf cond="_document['Heading']" --><!-- TemplateEndIf --></table>
 <!-- TemplateBeginEditable name="Banner" --><!-- TemplateEndEditable -->
