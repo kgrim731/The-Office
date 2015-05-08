@@ -1,3 +1,30 @@
 .contentarea {
 	background-color: #9FF;
 }
+.images {
+	letter-spacing: normal;
+	text-align: left;
+	vertical-align: middle;
+	word-spacing: normal;
+	white-space: normal;
+	/* [disabled]padding: 20px; */
+	border-top-color: #006;
+	border-right-color: #006;
+	border-bottom-color: #006;
+	border-left-color: #006;
+	/* [disabled]float: left; */
+	height: auto;
+	width: auto;
+}
+.actualimages {
+	margin: 20px;
+	padding: 20px;
+	border-top-color: #03F;
+	border-right-color: #03F;
+	border-bottom-color: #03F;
+	border-left-color: #03F;
+	clear: none;
+	float: left;
+	height: auto;
+	width: auto;
+}
